@@ -172,8 +172,20 @@
                 </div>
               </div>
             </div>
-            
           </div>
+          
+          <div class="row text-center">
+		      <div class="col-md-12">
+		         <div class="mt-3">
+		          <p class="pt-3 text-muted" data-aos="zoom-in-up" data-aos-duration="1000">
+		          	* 화환 반입이 금지되어 있어
+		          	<br>
+		          	마음만 감사히 받겠습니다.
+		          </p>
+		        </div>
+		      </div>
+		    </div>
+		    
         </div>
        </div>
     </div>
@@ -231,6 +243,9 @@
           	<span style="color: rgb(54, 138, 255);">왕십리방향에서 오실 때</span>
           	<br>
           	왕십리역 > 퇴계로에서 남대문 방향으로 직진 > 퇴계로2가 지하차도 > 회현사거리 신세계백화점 앞에서 유턴 후 직진 > 스테이트타워와 뉴오리엔탈호텔 사이로 우회전 > 왼쪽 첫번째 골목 라루체
+          	<br>
+          	<br>
+          	라루체 본관 1층과 지하 1층에 전용 주차장을 보유하고 있으며, 만차 시 불편을 최소화하기 위하여 네 곳의 추가 주차장으로 주차 요원이 안내해 드립니다.
           </p>
         </div>
       </div>
