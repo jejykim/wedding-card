@@ -273,7 +273,7 @@
         </div>
       </div>
       
-      <div class="h5 text-center pt-3 ww-title" style="color: white; background-color: rgba(172, 212, 139, 1.0); padding: 10px; border-radius: 10px; box-shadow: 5px 3px 3px #BDBDBD;" data-aos="zoom-in-up" data-aos-duration="1000" onclick="location.href='http://13.209.192.119:8080/wedding-gallery/'">더 많은 사진 보러가기 <i class="text-muted far fa-hand-point-right" style="color: white;"></i></div>
+      <div class="h5 text-center pt-3 ww-title" style="color: white; background-color: rgba(172, 212, 139, 1.0); padding: 10px; border-radius: 10px; box-shadow: 5px 3px 3px #BDBDBD;" data-aos="zoom-in-up" data-aos-duration="1000" onclick="location.href='http://13.209.192.119/wedding-gallery/'">더 많은 사진 보러가기 <i class="text-muted far fa-hand-point-right" style="color: white;"></i></div>
     </div>
   </div>
 </div>
@@ -323,7 +323,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">신랑 혼주 계좌번호 보기</h5>
+        <h6 class="modal-title">신랑 혼주 계좌번호 보기</h6>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -342,7 +342,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">신부 계좌번호 보기</h5>
+        <h6 class="modal-title">신부 계좌번호 보기</h6>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -361,7 +361,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">신부 혼주 계좌번호 보기</h5>
+        <h6 class="modal-title">신부 혼주 계좌번호 보기</h6>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -371,6 +371,45 @@
         <br>
         <span id="WPA">기업 01094774346</span>&nbsp;&nbsp;<button class="btn btn-outline-primary" onclick="copy('WPA')"><i class="text-muted far fa-copy"></i> 복사</button>
         <span></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="notification" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h6 class="modal-title" style="font-weight: bold;">예식 및 코로나19 관련 안내</h6>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" style="text-align: left;">
+      	<p>
+	      	저희가 결혼하게 될 웨딩홀 라루체는 방역 수칙을 준수합니다.<br>
+			<br>
+			<span style="color: #FF5E00;">명부 작성, 체온 측정, 휴대폰 소독</span> 후 건물 입장이 가능합니다.<br>
+			직원 관리 하에 순차적으로 진행되어 입장에 시간이 소요될 수 있습니다.<br>
+			<br>
+			거리두기 2단계 지침에 따라 <span style="color: #FF5E00;">홀 99명, 연회장 99명</span>으로 동시 입장 인원을 조정합니다.<br>
+			<br>
+			뷔페 이용 시 <span style="color: #FF5E00;">비닐 장갑과 마스크 착용 필수</span>입니다.<img alt="마스크" src="./resources/images/mask.png" width="40"><br>
+			모두의 안전을 위해 직원 안내에 협조 부탁드립니다.<br>
+			<br>
+			연회장 이용은 예식 시작 시간 30분 전부터 2시간 동안 가능합니다. (16:30~18:30)<br>
+			<br>
+			부득이하게 식사가 어려우신 경우 <span style="color: #FF5E00;">식권을 답례품으로 교환</span>하실 수 있습니다.<img alt="마스크" src="./resources/images/gift.png" width="40"><br>
+			답례품 교환은 예식 시작 시간 40분 전후로 가능합니다. (16:20~17:40)<br>
+			<br>
+			제한된 인원 초과 시 식사 혹은 답례품 수령이 불가능한 경우가 생길 수 있습니다. 양해 부탁드립니다.<br>
+			<br>
+			<span style="color: white; background-color: red;">유튜브 생중계</span>를 진행합니다. 참석이 어려우신 분은 영상으로 지켜봐 주세요.<br>
+			연회장에 계신 분들도 유튜브를 동시에 이용하시면 더욱 생생하게 보실 수 있습니다.<br>
+			<span style="color: #009300;">명동 라루체</span> 검색 후 홈페이지 상단 <span style="color: red;">결혼식 생중계</span>를 누르시면 시청 가능합니다.<img alt="마스크" src="./resources/images/youtube.png" width="40"><br>
+			<br>
+			무료 주차 시간은 2시간입니다.<img alt="마스크" src="./resources/images/car.png" width="40">
+      	</p>
       </div>
     </div>
   </div>
@@ -449,6 +488,8 @@
                 alert('복사가 완료되었습니다.');
         	}
         }
+        
+        $("#notification").modal("show");
     </script>
   </body>
 </html>
